@@ -1,4 +1,10 @@
 <Solution>
+  <Folder Name="/BookManagement/">
+    <Project Path="BM.ConsoleUI/BM.ConsoleUI.csproj" Id="a42aad57-4788-41c5-99e6-91a47c39a99c" />
+    <Project Path="BM.Data/BM.Data.csproj" Id="a7640da1-997c-442d-b98f-1fb79bf517e3" />
+    <Project Path="BM.Repository/BM.Repository.csproj" Id="77c38a2a-c864-4ddc-a1cc-6b91042ca22f" />
+    <Project Path="BM.Service/BM.Service.csproj" Id="a3dce0e8-1b20-4a37-a88d-a862ff3b3e30" />
+  </Folder>
   <Folder Name="/StudentsManagement/">
     <Project Path="SM.ConsoleUI/SM.ConsoleUI.csproj" Id="bc4a9598-fa41-4791-bbe0-b30c46efb86b" />
     <Project Path="SM.Data/SM.Data.csproj" Id="3b223118-fe33-4063-872d-748cd3cbd03e" />
