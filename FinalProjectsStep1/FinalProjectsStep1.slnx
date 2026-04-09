@@ -2,4 +2,5 @@
   <Project Path="Calculator/Calculator.csproj" Id="247e71c8-a769-40dd-bde8-8fbba79bc6a8" />
   <Project Path="GuessNumber/GuessNumber.csproj" Id="46e02daa-0333-4fbf-9da2-a4b0ecc5d03a" />
   <Project Path="Hangman/Hangman.csproj" Id="76520662-9227-4706-9eca-f8c98137415c" />
+  <Project Path="Translator/Translator.csproj" Id="c5c6bb8a-2681-42ee-875b-c03a3e5c509b" />
 </Solution>
